@@ -1,0 +1,36 @@
+[29/9/2025, 15.04.30] [START] Bot WhatsApp absensi otomatis dimulai.
+[29/9/2025, 15.04.37] [WHATSAPP] QR Code generated. Please scan with your phone.
+[29/9/2025, 15.05.29] [WHATSAPP] Client terhubung dan siap digunakan!
+[29/9/2025, 15.05.29] [INFO] Proses absensi otomatis telah dijalankan
+[29/9/2025, 15.05.34] [INFO] Hari ini: monday
+[29/9/2025, 15.05.35] [SCHEDULE] Jadwal absen pagi: 07.23.57
+[29/9/2025, 15.05.35] [SCHEDULE] Jadwal absen sore: 17.11.26
+[29/9/2025, 15.05.35] [WAITING] Sudah absen masuk (07:35:49), menunggu waktu absen sore...
+[29/9/2025, 15.05.35] [WAITING] Menunggu 126 menit...
+[29/9/2025, 15.10.38] [SHUTDOWN] Bot dihentikan oleh user
+[29/9/2025, 15.15.07] [START] Bot WhatsApp absensi otomatis dimulai.
+[29/9/2025, 15.15.18] [WHATSAPP] Client terhubung dan siap digunakan!
+[29/9/2025, 15.15.18] [INFO] Proses absensi otomatis telah dijalankan
+[29/9/2025, 15.15.23] [INFO] Hari ini: monday
+[29/9/2025, 15.15.24] [SCHEDULE] Jadwal absen pagi: 07.16.55
+[29/9/2025, 15.15.24] [SCHEDULE] Jadwal absen sore: 17.38.12
+[29/9/2025, 15.15.24] [WAITING] Sudah absen masuk (07:35:49), menunggu waktu absen sore...
+[29/9/2025, 15.15.24] [WAITING] Menunggu 143 menit...
+[29/9/2025, 15.16.19] [SHUTDOWN] Bot dihentikan oleh user
+[29/9/2025, 15.20.00] [START] Bot WhatsApp absensi otomatis dimulai.
+[29/9/2025, 15.20.10] [WHATSAPP] Client terhubung dan siap digunakan!
+[29/9/2025, 15.20.10] [INFO] Proses absensi otomatis telah dijalankan
+[29/9/2025, 15.20.15] [INFO] Hari ini: monday
+[29/9/2025, 15.20.16] [SCHEDULE] Jadwal absen pagi: 07.06.29
+[29/9/2025, 15.20.16] [SCHEDULE] Jadwal absen sore: 17.21.37
+[29/9/2025, 15.20.16] [WAITING] Sudah absen masuk (07:35:49), menunggu waktu absen sore...
+[29/9/2025, 15.20.16] [WAITING] Menunggu 121 menit...
+[29/9/2025, 15.27.40] [SHUTDOWN] Bot dihentikan oleh user
+[29/9/2025, 15.27.47] [START] Bot WhatsApp absensi otomatis dimulai.
+[29/9/2025, 15.27.57] [WHATSAPP] Client terhubung dan siap digunakan!
+[29/9/2025, 15.27.57] [INFO] Proses absensi otomatis telah dijalankan
+[29/9/2025, 15.28.02] [INFO] Hari ini: monday
+[29/9/2025, 15.28.02] [SCHEDULE] Jadwal absen pagi: 07.01.46
+[29/9/2025, 15.28.02] [SCHEDULE] Jadwal absen sore: 17.43.47
+[29/9/2025, 15.28.02] [WAITING] Sudah absen masuk (07:35:49), menunggu waktu absen sore...
+[29/9/2025, 15.28.02] [WAITING] Menunggu 136 menit...
