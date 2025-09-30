@@ -7,8 +7,8 @@ const path = require('path');
 // ======== KONFIGURASI =========
 const CONFIG = {
     BASE_URL: "https://naradaya.adhimix.web.id/",
-    USERNAME: "11235",  // <-- ganti username
-    PASSWORD: "sep",    // <-- ganti password
+    USERNAME: "",  // <-- ganti username
+    PASSWORD: "",    // <-- ganti password
     
     PAGI_START: [7, 0],    // 07:00
     PAGI_END: [7, 45],     // 07:45
@@ -671,4 +671,5 @@ module.exports = {
     main,
     initWhatsAppClient,
     CONFIG
+
 };
