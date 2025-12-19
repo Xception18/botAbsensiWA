@@ -16,7 +16,7 @@ const CONFIG = {
     SORE_END: [18, 0],     // 18:00
     
     LOG_FILE: "absensi_log.txt",
-    ADMIN_NUMBERS: ["6281225334049@c.us"], // <-- ganti dengan nomor admin
+    ADMIN_NUMBERS: ["628123456789@c.us"], // <-- ganti dengan nomor admin
     
     MAX_RETRY: 540,
     RETRY_DELAY: 30000, // 30 detik dalam ms
@@ -673,3 +673,4 @@ module.exports = {
     CONFIG
 
 };
+
